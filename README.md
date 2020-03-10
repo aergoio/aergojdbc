@@ -6,7 +6,12 @@ Aergo contract DB is supported on aergo enterpirise blockchain by deploying db c
 
 AergoJDBC library requires Aergo contract DB.
 
+## Latest
+v1.1.0
+
 ## Compatibility
 
 * Aergo Enterprise : v1.3.x
-* Java : JDK 7  
+* Java : JDK 7
+
+
